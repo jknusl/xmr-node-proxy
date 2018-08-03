@@ -1,5 +1,5 @@
 {
-  "name": "xmr-node-proxy",
+  "name": "xmr-node-proxy-1",
   "version": "0.0.2",
   "description": "Node proxy for XMR pools based on nodejs-pool, should support any coins that nodejs-pool does with little work",
   "main": "proxy.js",
