@@ -1,5 +1,5 @@
 {
-  "name": "xmr-node-proxy-1",
+  "name": "xmr-node-proxy",
   "version": "0.0.2",
   "description": "Node proxy for XMR pools based on nodejs-pool, should support any coins that nodejs-pool does with little work",
   "main": "proxy.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jknusl/xmr-node-proxy-1.git"
+    "url": "git+https://github.com/jknusl/xmr-node-proxy.git"
   },
   "author": "Alexander Blair",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jknusl/xmr-node-proxy-1/issues"
+    "url": "https://github.com/jknusl/xmr-node-proxy/issues"
   },
   "homepage": "https://github.com/jknusl/xmr-node-proxy-1#readme",
   "dependencies": {
